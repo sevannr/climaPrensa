@@ -1,0 +1,28 @@
+.weather-data-cont{
+    border: 1px solid #67B93D;
+    border-radius: 10px;
+    /* background-color: #67B93D; */
+    /* background-color: rgba(200, 200, 200, 0.5); */
+}
+
+.temperature{
+    font-weight: bold;
+    font-size: 32px;
+    /* color: #333; */
+}
+
+.temperatureType{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.extra-info-text{
+    font-size: 15px;
+    color: #828282
+}
+
+.wicon{
+    /* color: rgb(255, 72, 0); */
+    color: #67B93D;
+    font-weight: bold;
+}
